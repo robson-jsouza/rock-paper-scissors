@@ -1,0 +1,5 @@
+D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS\bin\Debug\RPS.dll
+D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS\bin\Debug\RPS.pdb
+D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS\obj\Debug\RPS.dll
+D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS\obj\Debug\RPS.pdb
+D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache

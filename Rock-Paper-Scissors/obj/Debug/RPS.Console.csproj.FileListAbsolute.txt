@@ -1,5 +1,0 @@
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\RPS.Console.exe.config
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\RPS.Console.exe
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\RPS.Console.pdb
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\RPS.Console.exe
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\RPS.Console.pdb

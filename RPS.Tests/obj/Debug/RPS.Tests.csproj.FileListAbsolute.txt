@@ -1,8 +1,0 @@
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\bin\Debug\RPS.Tests.dll
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\bin\Debug\RPS.Tests.pdb
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\obj\Debug\RPS.Tests.csprojResolveAssemblyReference.cache
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\obj\Debug\RPS.Tests.dll
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\obj\Debug\RPS.Tests.pdb
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\bin\Debug\RPS.dll
-D:\Entrevistas\HBSIS\Rock-Paper-Scissors\RPS.Tests\bin\Debug\RPS.pdb
